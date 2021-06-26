@@ -1,0 +1,13 @@
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\bin\Debug\netcoreapp3.1\Diez_Numeros.exe
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\bin\Debug\netcoreapp3.1\Diez_Numeros.deps.json
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\bin\Debug\netcoreapp3.1\Diez_Numeros.runtimeconfig.json
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\bin\Debug\netcoreapp3.1\Diez_Numeros.runtimeconfig.dev.json
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\bin\Debug\netcoreapp3.1\Diez_Numeros.dll
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\bin\Debug\netcoreapp3.1\Diez_Numeros.pdb
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.AssemblyInfoInputs.cache
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.AssemblyInfo.cs
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.dll
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.pdb
+C:\Users\MarianoCaro\source\repos\Diez_Numeros\Diez_Numeros\obj\Debug\netcoreapp3.1\Diez_Numeros.genruntimeconfig.cache
