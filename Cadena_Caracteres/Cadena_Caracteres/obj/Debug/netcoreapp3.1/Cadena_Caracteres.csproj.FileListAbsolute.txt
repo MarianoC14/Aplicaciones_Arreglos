@@ -1,0 +1,13 @@
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\bin\Debug\netcoreapp3.1\Cadena_Caracteres.exe
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\bin\Debug\netcoreapp3.1\Cadena_Caracteres.deps.json
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\bin\Debug\netcoreapp3.1\Cadena_Caracteres.runtimeconfig.json
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\bin\Debug\netcoreapp3.1\Cadena_Caracteres.runtimeconfig.dev.json
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\bin\Debug\netcoreapp3.1\Cadena_Caracteres.dll
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\bin\Debug\netcoreapp3.1\Cadena_Caracteres.pdb
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.AssemblyInfoInputs.cache
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.AssemblyInfo.cs
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.dll
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.pdb
+C:\Users\MarianoCaro\source\repos\Cadena_Caracteres\Cadena_Caracteres\obj\Debug\netcoreapp3.1\Cadena_Caracteres.genruntimeconfig.cache
