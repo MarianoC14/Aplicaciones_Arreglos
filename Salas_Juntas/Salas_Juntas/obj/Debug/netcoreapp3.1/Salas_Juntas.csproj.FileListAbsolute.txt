@@ -1,0 +1,13 @@
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.AssemblyInfoInputs.cache
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.AssemblyInfo.cs
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\bin\Debug\netcoreapp3.1\Salas_Juntas.exe
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\bin\Debug\netcoreapp3.1\Salas_Juntas.deps.json
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\bin\Debug\netcoreapp3.1\Salas_Juntas.runtimeconfig.json
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\bin\Debug\netcoreapp3.1\Salas_Juntas.runtimeconfig.dev.json
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\bin\Debug\netcoreapp3.1\Salas_Juntas.dll
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\bin\Debug\netcoreapp3.1\Salas_Juntas.pdb
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.dll
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.pdb
+C:\Users\MarianoCaro\source\repos\Salas_Juntas\Salas_Juntas\obj\Debug\netcoreapp3.1\Salas_Juntas.genruntimeconfig.cache

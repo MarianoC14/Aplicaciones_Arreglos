@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Salas_Juntas/1.0.0": {
+        "runtime": {
+          "Salas_Juntas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salas_Juntas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
