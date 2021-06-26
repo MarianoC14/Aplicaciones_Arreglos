@@ -1,0 +1,13 @@
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\bin\Debug\netcoreapp3.1\Veinte_Numeros.exe
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\bin\Debug\netcoreapp3.1\Veinte_Numeros.deps.json
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\bin\Debug\netcoreapp3.1\Veinte_Numeros.runtimeconfig.json
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\bin\Debug\netcoreapp3.1\Veinte_Numeros.runtimeconfig.dev.json
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\bin\Debug\netcoreapp3.1\Veinte_Numeros.dll
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\bin\Debug\netcoreapp3.1\Veinte_Numeros.pdb
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.csprojAssemblyReference.cache
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.AssemblyInfoInputs.cache
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.AssemblyInfo.cs
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.dll
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.pdb
+C:\Users\MarianoCaro\source\repos\Veinte_Numeros\Veinte_Numeros\obj\Debug\netcoreapp3.1\Veinte_Numeros.genruntimeconfig.cache
